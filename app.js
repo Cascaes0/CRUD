@@ -28,4 +28,3 @@ app.post('./postando', (request, response) => {
     return response.status(201).send("USUARIO ADICIONADO NA LISTA COM SUCESSO, POSTADO")
 });
 
-app.push
